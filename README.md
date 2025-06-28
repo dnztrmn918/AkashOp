@@ -12,17 +12,6 @@
   <a href="https://t.me/Sanatani_Network"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Sanatani_Network" alt="Support Channel"></a>
   <a href="https://t.me/Aura_Kingdom_Group"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
   <a href="https://t.me/WTF_NoHope"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NoxxOP/ShrutiMusic/fork"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social" alt="GitHub Forks"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social" alt="GitHub Stars"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/graphs/contributors"><img src="https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?style=social" alt="GitHub Contributors"></a>
-</p>
-
-<p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
-</p>
 
 ## ✨ Features
 
@@ -33,17 +22,6 @@
 - **Elegant UI**: Clean and modern user interface
 - **Group Management**: Powerful admin commands
 - **High Quality**: Crystal clear audio streaming
-
-## 📊 Repository Stats
-
-<p align="center">
-  <a href="https://github.com/NoxxOP/ShrutiMusic"><img src="https://img.shields.io/github/repo-size/NoxxOP/ShrutiMusic?style=flat-square" alt="Repo Size"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/issues"><img src="https://img.shields.io/github/issues/NoxxOP/ShrutiMusic?style=flat-square" alt="Issues"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/network/members"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=flat-square" alt="Forks"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=flat-square" alt="Stars"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NoxxOP/ShrutiMusic?style=flat-square" alt="LICENSE"></a>
-  <a href="https://github.com/NoxxOP/ShrutiMusic/commits/main"><img src="https://img.shields.io/github/last-commit/NoxxOP/ShrutiMusic?style=flat-square" alt="Last Commit"></a>
-</p>
 
 ## 🔥 Essential Commands
 
@@ -74,8 +52,8 @@ sudo apt-get install python3-pip ffmpeg git -y
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/NoxxOP/ShrutiMusicBot
-cd ShrutiMusicBot
+git clone https://github.com/akashprajapati9548/AkashOp
+cd AnanyaMusicBot
 ```
 
 #### Setup Virtual Environment
@@ -114,7 +92,7 @@ There are two ways to start the bot:
 
 1. Using Python directly:
 ```bash
-python3 -m ShrutiMusic
+python3 -m AnanyaMusic
 ```
 
 2. Using Bash script:
@@ -127,7 +105,7 @@ bash start
 To keep the bot running in background:
 
 ```bash
-screen -S shrutibot
+screen -S ananyabot
 bash start
 ```
 
@@ -135,13 +113,13 @@ To detach the screen, press `Ctrl+A` then `D`
 
 To reattach the screen later:
 ```bash
-screen -r shrutibot
+screen -r ananyabot
 ```
 
 ### ☁️ Heroku Deployment
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/akashprajapati9548/AkashOp"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="250px" alt="Deploy to Heroku"></a>
 </p>
 
 1. Click the button above
@@ -155,15 +133,6 @@ screen -r shrutibot
 3. Click "Deploy App"
 4. Once deployed, go to Resources tab and turn on the worker
 
-## 🔄 How to Generate Session String
-
-Use our Session Generator Bot: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot)
-
-1. Start the bot
-2. Send phone number with country code
-3. Enter the OTP
-4. Your session string will be generated
-
 ## 🤔 Common Issues & Fixes
 
 - **Bot not responding**: Check if the bot is running and has proper permissions
@@ -173,7 +142,6 @@ Use our Session Generator Bot: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot
 
 ## 🌟 Credits and Acknowledgements
 
-- [NoxxOP](https://github.com/NoxxOP): Main Developer
 - All contributors who helped make this project better
 
 ## 📝 License
@@ -191,5 +159,5 @@ For any questions or help, join our [Support Group](https://t.me/Aura_Kingdom_Gr
 ---
 
 <p align="center">
-<b>🎵 Enjoy Streaming Music with Shruti Bot! 🎵</b>
+<b>🎵 Enjoy Streaming Music with Ananya Bot! 🎵</b>
 </p>
