@@ -1,10 +1,10 @@
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, Message
 
-from ShrutiMusic import app
-from ShrutiMusic.utils.database import get_playmode, get_playtype, is_nonadmin_chat
-from ShrutiMusic.utils.decorators import language
-from ShrutiMusic.utils.inline.settings import playmode_users_markup
+from AnanyaMusic import app
+from AnanyaMusic.utils.database import get_playmode, get_playtype, is_nonadmin_chat
+from AnanyaMusic.utils.decorators import language
+from AnanyaMusic.utils.inline.settings import playmode_users_markup
 from config import BANNED_USERS
 
 
