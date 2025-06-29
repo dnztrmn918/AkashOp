@@ -1,9 +1,9 @@
 from pyrogram import filters
 
-from ShrutiMusic import YouTube, app
-from ShrutiMusic.utils.channelplay import get_channeplayCB
-from ShrutiMusic.utils.decorators.language import languageCB
-from ShrutiMusic.utils.stream.stream import stream
+from AnanyaMusic import YouTube, app
+from AnanyaMusic.utils.channelplay import get_channeplayCB
+from AnanyaMusic.utils.decorators.language import languageCB
+from AnanyaMusic.utils.stream.stream import stream
 from config import BANNED_USERS
 
 
