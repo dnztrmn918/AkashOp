@@ -6,14 +6,14 @@ from pyrogram.types import InlineKeyboardMarkup, InputMediaPhoto, Message
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from ShrutiMusic import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
-from ShrutiMusic.core.call import Aviax
-from ShrutiMusic.utils import seconds_to_min, time_to_seconds
-from ShrutiMusic.utils.channelplay import get_channeplayCB
-from ShrutiMusic.utils.decorators.language import languageCB
-from ShrutiMusic.utils.decorators.play import PlayWrapper
-from ShrutiMusic.utils.formatters import formats
-from ShrutiMusic.utils.inline import (
+from AnanyaMusic import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
+from AnanyaMusic.core.call import Aviax
+from AnanyaMusic.utils import seconds_to_min, time_to_seconds
+from AnanyaMusic.utils.channelplay import get_channeplayCB
+from AnanyaMusic.utils.decorators.language import languageCB
+from AnanyaMusic.utils.decorators.play import PlayWrapper
+from AnanyaMusic.utils.formatters import formats
+from AnanyaMusic.utils.inline import (
     botplaylist_markup,
     livestream_markup,
     playlist_markup,
