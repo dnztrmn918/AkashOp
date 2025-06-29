@@ -9,9 +9,9 @@ from pyrogram.errors import (
 )
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from ShrutiMusic import YouTube, app
-from ShrutiMusic.misc import SUDOERS
-from ShrutiMusic.utils.database import (
+from AnanyaMusic import YouTube, app
+from AnanyaMusic.misc import SUDOERS
+from AnanyaMusic.utils.database import (
     get_assistant,
     get_cmode,
     get_lang,
@@ -20,7 +20,7 @@ from ShrutiMusic.utils.database import (
     is_active_chat,
     is_maintenance,
 )
-from ShrutiMusic.utils.inline import botplaylist_markup
+from AnanyaMusic.utils.inline import botplaylist_markup
 from config import PLAYLIST_IMG_URL, SUPPORT_GROUP, adminlist
 from strings import get_string
 
