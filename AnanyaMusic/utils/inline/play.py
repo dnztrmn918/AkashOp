@@ -71,7 +71,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(text="𝐒ᴜᴘᴘᴏʀᴛ", url="https://t.me/Sanatani_Network"),
-            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/Aura_Kingdom_Group"),
+            InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/+WP6-MrSwmmo4MWI1"),
         ],
     ]
 
