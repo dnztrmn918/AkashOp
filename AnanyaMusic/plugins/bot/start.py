@@ -6,10 +6,10 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from youtubesearchpython.__future__ import VideosSearch
 
 import config
-from ShrutiMusic import app
-from ShrutiMusic.misc import _boot_
-from ShrutiMusic.plugins.sudo.sudoers import sudoers_list
-from ShrutiMusic.utils.database import (
+from AnanyaMusic import app
+from AnanyaMusic.misc import _boot_
+from AnanyaMusic.plugins.sudo.sudoers import sudoers_list
+from AnanyaMusic.utils.database import (
     add_served_chat,
     add_served_user,
     blacklisted_chats,
@@ -17,10 +17,10 @@ from ShrutiMusic.utils.database import (
     is_banned_user,
     is_on_off,
 )
-from ShrutiMusic.utils import bot_sys_stats
-from ShrutiMusic.utils.decorators.language import LanguageStart
-from ShrutiMusic.utils.formatters import get_readable_time
-from ShrutiMusic.utils.inline import help_pannel, private_panel, start_panel
+from AnanyaMusic.utils import bot_sys_stats
+from AnanyaMusic.utils.decorators.language import LanguageStart
+from AnanyaMusic.utils.formatters import get_readable_time
+from AnanyaMusic.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
