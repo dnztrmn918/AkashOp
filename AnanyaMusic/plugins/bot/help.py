@@ -3,11 +3,11 @@ from typing import Union
 from pyrogram import filters, types
 from pyrogram.types import InlineKeyboardMarkup, Message
 
-from ShrutiMusic import app
-from ShrutiMusic.utils import help_pannel
-from ShrutiMusic.utils.database import get_lang
-from ShrutiMusic.utils.decorators.language import LanguageStart, languageCB
-from ShrutiMusic.utils.inline.help import help_back_markup, private_help_panel
+from AnanyaMusic import app
+from AnanyaMusic.utils import help_pannel
+from AnayaMusic.utils.database import get_lang
+from AnanyaMusic.utils.decorators.language import LanguageStart, languageCB
+from AnanyaMusic.utils.inline.help import help_back_markup, private_help_panel
 from config import BANNED_USERS, START_IMG_URL, SUPPORT_GROUP
 from strings import get_string, helpers
 
