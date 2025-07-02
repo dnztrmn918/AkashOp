@@ -1,11 +1,11 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from ShrutiMusic import YouTube, app
-from ShrutiMusic.core.call import Aviax
-from ShrutiMusic.misc import db
-from ShrutiMusic.utils import AdminRightsCheck, seconds_to_min
-from ShrutiMusic.utils.inline import close_markup
+from AnanyaMusic import YouTube, app
+from AnanyaMusic.core.call import Aviax
+from AnanyaMusic.misc import db
+from AnanyaMusic.utils import AdminRightsCheck, seconds_to_min
+from AnanyaMusic.utils.inline import close_markup
 from config import BANNED_USERS
 
 
