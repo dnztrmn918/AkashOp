@@ -1,13 +1,13 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from ShrutiMusic import app
-from ShrutiMusic.core.call import Aviax
-from ShrutiMusic.misc import SUDOERS, db
-from ShrutiMusic.utils import AdminRightsCheck
-from ShrutiMusic.utils.database import is_active_chat, is_nonadmin_chat
-from ShrutiMusic.utils.decorators.language import languageCB
-from ShrutiMusic.utils.inline import close_markup, speed_markup
+from AnanyaMusic import app
+from AnanyaMusic.core.call import Aviax
+from AnanyaMusic.misc import SUDOERS, db
+from AnanyaMusic.utils import AdminRightsCheck
+from AnanyaMusic.utils.database import is_active_chat, is_nonadmin_chat
+from AnanyaMusic.utils.decorators.language import languageCB
+from AnanyaMusic.utils.inline import close_markup, speed_markup
 from config import BANNED_USERS, adminlist
 
 checker = []
