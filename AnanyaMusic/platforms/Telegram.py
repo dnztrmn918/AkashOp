@@ -6,7 +6,7 @@ from typing import Union
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Voice
 
 import config
-from Ananya7Music import app
+from AnanyaMusic import app
 from AnanyaMusic.utils.formatters import (
     check_duration,
     convert_bytes,
