@@ -13,7 +13,7 @@ from AnanyaMusic import app
 from AnanyaMusic.core.userbot import assistants
 from AnanyaMusic.misc import SUDOERS, mongodb
 from AnanyaMusic.plugins import ALL_MODULES
-from AnayaMusic.utils.database import get_served_chats, get_served_users, get_sudoers,is_autoend,is_autoleave
+from AnanyaMusic.utils.database import get_served_chats, get_served_users, get_sudoers,is_autoend,is_autoleave
 from AnanyaMusic.utils.decorators.language import language, languageCB
 from AnanyaMusic.utils.inline.stats import back_stats_buttons, stats_buttons
 from config import BANNED_USERS
